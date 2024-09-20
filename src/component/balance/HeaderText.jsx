@@ -1,4 +1,3 @@
-import "flowbite";
 
 const HeaderText = () => {
   return (
