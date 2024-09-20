@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "./App.css";
 import BalancefromsSection from "./component/balance/Balancefrom";
-import BalancehistorySection from "./component/balance/balancehistory";
+import BalancehistorySection from "./component/balance/Balancehistory";
 import HeaderText from "./component/balance/HeaderText";
 import TotalbalanceSection from "./component/balance/Totalbalance";
 import TotalCostsection from "./component/balance/Totalcost";
